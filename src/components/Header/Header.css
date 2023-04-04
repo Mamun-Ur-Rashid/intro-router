@@ -1,0 +1,8 @@
+.navbar a{
+    margin-right: 20px;
+}
+.active{
+    color: blue;
+    font-size: medium;
+    
+}
